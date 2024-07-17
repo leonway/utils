@@ -1,6 +1,6 @@
 {
   "name": "@reamey/utils",
-  "version": "0.0.23",
+  "version": "0.0.1",
   "license": "MIT",
   "typings": "dist/index.d.ts",
   "main": "dist/index.umd.js",
@@ -12,10 +12,6 @@
     "README.md",
     "LICENSE"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+git@gitlab.rokid-inc.com:cdc-frontend/rokid-common-business-packages.git"
-  },
   "homepage": "https://gitlab.rokid-inc.com/cdc-frontend/rokid-common-business-packages",
   "scripts": {
     "dev": "vite build --watch",
