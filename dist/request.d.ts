@@ -7,7 +7,7 @@ export interface LoginInvalidWarn {
     title: string;
     onOk: () => void;
 }
-export type Request = ((url: string, options?: AxiosRequestConfig) => any) & {
+export declare type Request = ((url: string, options?: AxiosRequestConfig) => any) & {
     showloginInvalidModal: () => void;
 };
 interface CreateRequestOptions {
