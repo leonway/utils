@@ -1,5 +1,5 @@
 {
-  "name": "@reamey/utils",
+  "name": "@leonway/utils",
   "version": "0.0.1",
   "license": "MIT",
   "typings": "dist/index.d.ts",
